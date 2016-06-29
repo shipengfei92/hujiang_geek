@@ -1,0 +1,1052 @@
+[
+    {
+        "outputFile": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5162,
+                        "endLine": 131,
+                        "endColumn": 19,
+                        "endOffset": 5296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5302,
+                        "endLine": 136,
+                        "endColumn": 19,
+                        "endOffset": 5464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 5838,
+                        "endLine": 153,
+                        "endColumn": 19,
+                        "endOffset": 5942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 5,
+                        "startOffset": 3324,
+                        "endLine": 76,
+                        "endColumn": 19,
+                        "endOffset": 3479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3485,
+                        "endLine": 82,
+                        "endColumn": 19,
+                        "endOffset": 3651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endLine": 26,
+                        "endColumn": 19,
+                        "endOffset": 1922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1928,
+                        "endLine": 30,
+                        "endColumn": 19,
+                        "endOffset": 2040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endLine": 39,
+                    "endColumn": 19,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 4919,
+                        "endLine": 122,
+                        "endColumn": 19,
+                        "endOffset": 5032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endLine": 43,
+                    "endColumn": 19,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5038,
+                        "endLine": 126,
+                        "endColumn": 19,
+                        "endOffset": 5156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endLine": 49,
+                    "endColumn": 19,
+                    "endOffset": 1398
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 4177,
+                        "endLine": 106,
+                        "endColumn": 19,
+                        "endOffset": 4338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1403,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1578
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4344,
+                        "endLine": 112,
+                        "endColumn": 19,
+                        "endOffset": 4524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1583,
+                    "endLine": 59,
+                    "endColumn": 19,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 5617,
+                        "endLine": 145,
+                        "endColumn": 19,
+                        "endOffset": 5724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 5730,
+                        "endLine": 149,
+                        "endColumn": 19,
+                        "endOffset": 5832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endLine": 67,
+                    "endColumn": 19,
+                    "endOffset": 1915
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 5470,
+                        "endLine": 140,
+                        "endColumn": 19,
+                        "endOffset": 5592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 1920,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 2120
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3657,
+                        "endLine": 90,
+                        "endColumn": 19,
+                        "endOffset": 3864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2125,
+                    "endLine": 83,
+                    "endColumn": 19,
+                    "endOffset": 2318
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3870,
+                        "endLine": 98,
+                        "endColumn": 19,
+                        "endOffset": 4070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2323,
+                    "endLine": 103,
+                    "endColumn": 19,
+                    "endOffset": 2976
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2046,
+                        "endLine": 50,
+                        "endColumn": 19,
+                        "endOffset": 2718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 2981,
+                    "endLine": 123,
+                    "endColumn": 19,
+                    "endOffset": 3555
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2724,
+                        "endLine": 70,
+                        "endColumn": 19,
+                        "endOffset": 3317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 3560,
+                    "endColumn": 47,
+                    "endOffset": 3603
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 47,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 3608,
+                    "endColumn": 54,
+                    "endOffset": 3658
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 3663,
+                    "endColumn": 45,
+                    "endOffset": 3704
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 45,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3709,
+                    "endColumn": 39,
+                    "endOffset": 3744
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 39,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 3749,
+                    "endColumn": 39,
+                    "endOffset": 3784
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 39,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 3789,
+                    "endColumn": 41,
+                    "endOffset": 3826
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 41,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 3831,
+                    "endColumn": 38,
+                    "endOffset": 3865
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 38,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 3870,
+                    "endColumn": 37,
+                    "endOffset": 3903
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 37,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 3908,
+                    "endColumn": 39,
+                    "endOffset": 3943
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 39,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 3948,
+                    "endColumn": 56,
+                    "endOffset": 4000
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 56,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4005,
+                    "endColumn": 55,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 55,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endColumn": 43,
+                    "endOffset": 4100
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 43,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4105,
+                    "endColumn": 42,
+                    "endOffset": 4143
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4148,
+                    "endColumn": 75,
+                    "endOffset": 4219
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 75,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4224,
+                    "endColumn": 54,
+                    "endOffset": 4274
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 54,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4279,
+                    "endColumn": 53,
+                    "endOffset": 4328
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1733,
+                        "endColumn": 53,
+                        "endOffset": 1782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4333,
+                    "endColumn": 54,
+                    "endOffset": 4383
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1677,
+                        "endColumn": 54,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4388,
+                    "endColumn": 45,
+                    "endOffset": 4429
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 45,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4434,
+                    "endColumn": 57,
+                    "endOffset": 4487
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1277,
+                        "endColumn": 57,
+                        "endOffset": 1330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 4492,
+                    "endColumn": 88,
+                    "endOffset": 4576
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4829,
+                        "endColumn": 88,
+                        "endOffset": 4913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 4581,
+                    "endColumn": 52,
+                    "endOffset": 4629
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4716,
+                        "endColumn": 52,
+                        "endOffset": 4764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 4634,
+                    "endColumn": 57,
+                    "endOffset": 4687
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4770,
+                        "endColumn": 57,
+                        "endOffset": 4823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 4692,
+                    "endColumn": 54,
+                    "endOffset": 4742
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 54,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4747,
+                    "endColumn": 91,
+                    "endOffset": 4834
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4623,
+                        "endColumn": 91,
+                        "endOffset": 4710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 4839,
+                    "endColumn": 72,
+                    "endOffset": 4907
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4549,
+                        "endColumn": 72,
+                        "endOffset": 4617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 4912,
+                    "endColumn": 214,
+                    "endOffset": 5122
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 830,
+                        "endColumn": 214,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 5127,
+                    "endColumn": 156,
+                    "endOffset": 5279
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 156,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 5284,
+                    "endColumn": 414,
+                    "endOffset": 5694
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 414,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5699,
+                    "endColumn": 165,
+                    "endOffset": 5860
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 165,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5865,
+                    "endColumn": 54,
+                    "endOffset": 5915
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 54,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 5920,
+                    "endColumn": 52,
+                    "endOffset": 5968
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1450,
+                        "endColumn": 52,
+                        "endOffset": 1498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 5973,
+                    "endColumn": 56,
+                    "endOffset": 6025
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1392,
+                        "endColumn": 56,
+                        "endOffset": 1444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 6030,
+                    "endColumn": 59,
+                    "endOffset": 6085
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1504,
+                        "endColumn": 59,
+                        "endOffset": 1559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 6090,
+                    "endColumn": 82,
+                    "endOffset": 6168
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4076,
+                        "endColumn": 82,
+                        "endOffset": 4154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 6173,
+                    "endLine": 167,
+                    "endColumn": 9,
+                    "endOffset": 6697
+                },
+                "from": {
+                    "file": "C:\\Users\\cqw\\OneDrive\\hujiang\\SpeechDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 6,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 9,
+                        "endOffset": 592
+                    }
+                }
+            }
+        ]
+    }
+]

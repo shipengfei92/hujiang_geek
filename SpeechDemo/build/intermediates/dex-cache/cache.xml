@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="669653b063646f5d574582498c5eb8b864eb820b">
+        <dex dex="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\build\intermediates\pre-dexed\debug\instant-run_1a4bc7678810b6792ed8f8f3128275a65e6b9ada.jar" />
+    </item>
+    <item
+        jar="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\libs\Sunflower.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8904be0d794eb366eef8eb45c23c674171cb1fb0">
+        <dex dex="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\build\intermediates\pre-dexed\debug\Sunflower_624de36a5145d98e50dcfb4e3845395e9fddb4ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85ba2ac6a76e73e9a181ffdd944f571ba8a0cadb">
+        <dex dex="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_793c13d995f5f34d658733ae760b2f09c795f10c.jar" />
+    </item>
+    <item
+        jar="C:\Users\cqw\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_7e9520f0a8e4d5120aceca9bcd2784515ae7f91b.jar" />
+    </item>
+    <item
+        jar="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\libs\Msc.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85a46b29703ef8930a92d2fdea8ff336275c7ab2">
+        <dex dex="C:\Users\cqw\OneDrive\hujiang\SpeechDemo\app\build\intermediates\pre-dexed\debug\Msc_b501dd92d1ff6f5262c343221f609acc846e31f2.jar" />
+    </item>
+
+</items>
